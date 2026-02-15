@@ -1,4 +1,3 @@
-
 final class APIService: APIServiceProtocol {
 
     private let baseURL = "https://gorest.co.in/public/v1/posts"

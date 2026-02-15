@@ -8,3 +8,5 @@
 struct PostResponse: Decodable {
     let data: [Post]
 }
+
+
